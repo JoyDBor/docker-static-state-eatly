@@ -1,5 +1,0 @@
-From ngnix:alpine
-
-COPY website/ /usr/share/ngnix/html
-
-EXPOSE 80
